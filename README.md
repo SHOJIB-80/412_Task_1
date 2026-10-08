@@ -258,4 +258,4 @@ No license file was found in the repository. The project does not currently decl
 
 ## Author
 
-The portfolio content identifies the developer as Tanvir Tahsin in the frontend interface.
+MD SIRAJUL ISLAM
