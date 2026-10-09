@@ -254,7 +254,7 @@ There are no automated test files or testing scripts configured in the repositor
 
 ## License
 
-No license file was found in the repository. The project does not currently declare a license.
+Under SHOJIB-80 
 
 ## Author
 
